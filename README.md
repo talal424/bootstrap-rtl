@@ -22,3 +22,21 @@ it is the original but it is RTL not LTR
 ```HTML
 <link rel="stylesheet" href="bootstrap.rtl.min.css">
 ```
+
+# Examples:
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/glyphicons.png "Glyphicons")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/grid.png "grid")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/forms.png "forms")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/alerts.png "alerts")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/tables.png "tables")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/panels.png "panels")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/navbar-fixed-top.png "navbar-fixed-top")
+
+![alt text](https://github.com/talal424/bootstrap-rtl/raw/master/screenshots/navbar-fixed-bottom.png "navbar-fixed-bottom")
